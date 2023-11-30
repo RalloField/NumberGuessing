@@ -45,4 +45,4 @@ Guess a number between 0 and 100: 37
 You are correct!
 ```
 
-#### Credits to SaeThunder
+##### Credits to Fransesco Magliocco for his tutorial
