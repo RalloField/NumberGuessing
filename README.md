@@ -43,6 +43,6 @@ Guess a number between 0 and 100: 25
 Too low! Guess higher...
 Guess a number between 0 and 100: 37
 You are correct!
-
+```
 
 #### Credits to SaeThunder
